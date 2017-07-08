@@ -7,4 +7,3 @@
 |[爬虫](https://github.com/Big-xiong/nodejs_demo/issues/2)||
 ## 问题流
 - [关于angular如何根据搜索得到的内容来获取分页数](https://github.com/Big-xiong/angular_demo/issues/3)
-- [关于angular如何根据搜索得到的内容来获取分页数](https://github.com/Big-xiong/angular_demo/issues/3)
