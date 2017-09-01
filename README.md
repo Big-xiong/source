@@ -12,3 +12,5 @@
 ## 分享
 - [国外api](https://github.com/toddmotto/public-apis)
 - [国内api](https://github.com/jokermonn/-Api)
+- [diycode社区](https://www.diycode.cc/api)
+- [干货集中营](http://gank.io/api)
