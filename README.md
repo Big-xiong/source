@@ -2,7 +2,7 @@
 ## 技术
 |Nodejs|Anrular|Vue|
 |-|-|-|
-| [图片上传技术](https://github.com/Big-xiong/nodejs_demo/issues/3) | [脏检测机制](https://github.com/Big-xiong/angular_demo/issues/2)|
+| [图片上传技术](https://github.com/Big-xiong/nodejs_demo/issues/3) | [脏检测机制](https://github.com/Big-xiong/angular_demo/issues/2)| [可复用的组件编写]()
 | [服务器代理](https://github.com/Big-xiong/nodejs_demo/issues/1) |[关于$http无法传参](https://github.com/Big-xiong/angular_demo/issues/1)|
 |[爬虫](https://github.com/Big-xiong/nodejs_demo/issues/2)||
 ## 问题
